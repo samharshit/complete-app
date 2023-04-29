@@ -1,0 +1,15 @@
+.person-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.person-container h2 {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.person-container h2:first-child {
+  margin-top: 0;
+}
